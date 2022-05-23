@@ -1,7 +1,10 @@
 # Stranger-lang
 
-### Integrantes do Grupo
-Natanael Henrik Zago e Micael Augusto Orsolin Meneghetti
+Projeto: Linguagem de programação
+
+Matéria: Programação I (4ª fase)
+
+Ciência da Computação - Universidade Federal da Fronteira Sul
 
 ### Exigências do Projeto
 <br>Implementar um programa em Java que interprete uma linguagem de
