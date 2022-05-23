@@ -1,0 +1,9 @@
+vars:
+    $a = 2;
+
+end_vars;
+
+stranger:
+    showln($a);
+
+end_stranger;

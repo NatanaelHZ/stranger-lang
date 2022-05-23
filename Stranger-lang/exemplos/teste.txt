@@ -1,0 +1,36 @@
+vars: 
+	$Iron = 10;
+	$group = 39;
+	$fine = 16;
+	$raiz = 0;
+	$a = 8;
+	$groot = 0;
+	$rocket = 2;
+end_vars;
+
+stranger:
+
+	loop(2)
+		$groot = cousin(5);
+		if($groot > 0)
+			showln("primo uhuul");
+			if(3 > 1)
+				showln("Entrou no condi loop");
+			end_if;
+		end_if;
+	end_loop;
+
+	loop(1)
+		showln("doisloops");
+	end_loop;
+	
+	if(3 > 1)
+		showln("Entrou no condi");
+		if(3 > 1)
+			showln("Entrou no condi");
+		end_if;
+		showln("abacate");
+	end_if;
+
+	
+end_stranger;

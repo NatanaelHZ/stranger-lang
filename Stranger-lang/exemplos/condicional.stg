@@ -1,0 +1,12 @@
+vars:
+    $a = 1;
+
+end_vars:
+
+stranger:
+    if($a > 1)
+        showln("maior");
+        if($a < 1)
+            showln("menor");
+        end_if;
+    end_if;

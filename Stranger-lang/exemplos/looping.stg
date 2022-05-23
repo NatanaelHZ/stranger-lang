@@ -1,0 +1,15 @@
+vars:
+    $i = 0;
+    $a = 0;
+
+end_vars;
+
+stranger:
+    loop(10)
+        $i = $i + 1;
+        showln($i);
+    end_loop;
+    $a = 7 % 2;
+    showln($a);
+
+end_stranger;

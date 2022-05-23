@@ -1,0 +1,13 @@
+vars:
+    $a = 0;
+    $b = 0;
+
+end_vars;
+
+stranger:
+    $a = 4 % 2;
+    showln($a);
+    $b = 7 % 2;
+    showln($b);
+
+end_stranger;

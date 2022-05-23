@@ -1,0 +1,4 @@
+stranger:
+    showln("Olá Mundo!");
+
+end_stranger;
